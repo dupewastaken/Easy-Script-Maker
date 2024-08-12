@@ -1,0 +1,212 @@
+-- // For anyone wondering, this is what the "https://api.github.com/repos/Roblox/StudioWidgets/contents/src" link does: \\ --
+
+[
+  {
+    "name": "CollapsibleTitledSection.lua",
+    "path": "src/CollapsibleTitledSection.lua",
+    "sha": "d4842fae6e54637d6c35394109844765650144a0",
+    "size": 5605,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/CollapsibleTitledSection.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/CollapsibleTitledSection.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/d4842fae6e54637d6c35394109844765650144a0",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/CollapsibleTitledSection.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/CollapsibleTitledSection.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/d4842fae6e54637d6c35394109844765650144a0",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/CollapsibleTitledSection.lua"
+    }
+  },
+  {
+    "name": "CustomTextButton.lua",
+    "path": "src/CustomTextButton.lua",
+    "sha": "6a5eb44db63c2574dd628794c6864596aec0615a",
+    "size": 2688,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/CustomTextButton.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/CustomTextButton.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/6a5eb44db63c2574dd628794c6864596aec0615a",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/CustomTextButton.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/CustomTextButton.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/6a5eb44db63c2574dd628794c6864596aec0615a",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/CustomTextButton.lua"
+    }
+  },
+  {
+    "name": "GuiUtilities.lua",
+    "path": "src/GuiUtilities.lua",
+    "sha": "8c7fe5476a03c09ac70c88a92d87893614b5eb46",
+    "size": 7916,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/GuiUtilities.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/GuiUtilities.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/8c7fe5476a03c09ac70c88a92d87893614b5eb46",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/GuiUtilities.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/GuiUtilities.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/8c7fe5476a03c09ac70c88a92d87893614b5eb46",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/GuiUtilities.lua"
+    }
+  },
+  {
+    "name": "ImageButtonWithText.lua",
+    "path": "src/ImageButtonWithText.lua",
+    "sha": "3a65fef686610eb65ccc346ece9057f57ae3fe6d",
+    "size": 5067,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/ImageButtonWithText.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/ImageButtonWithText.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/3a65fef686610eb65ccc346ece9057f57ae3fe6d",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/ImageButtonWithText.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/ImageButtonWithText.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/3a65fef686610eb65ccc346ece9057f57ae3fe6d",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/ImageButtonWithText.lua"
+    }
+  },
+  {
+    "name": "LabeledCheckbox.lua",
+    "path": "src/LabeledCheckbox.lua",
+    "sha": "a214c4389232dd2975ef23eca692d321f81fafa0",
+    "size": 7168,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledCheckbox.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledCheckbox.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/a214c4389232dd2975ef23eca692d321f81fafa0",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/LabeledCheckbox.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledCheckbox.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/a214c4389232dd2975ef23eca692d321f81fafa0",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledCheckbox.lua"
+    }
+  },
+  {
+    "name": "LabeledMultiChoice.lua",
+    "path": "src/LabeledMultiChoice.lua",
+    "sha": "91df52971751802a9f4f05a193cd307711b87b10",
+    "size": 3933,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledMultiChoice.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledMultiChoice.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/91df52971751802a9f4f05a193cd307711b87b10",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/LabeledMultiChoice.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledMultiChoice.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/91df52971751802a9f4f05a193cd307711b87b10",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledMultiChoice.lua"
+    }
+  },
+  {
+    "name": "LabeledRadioButton.lua",
+    "path": "src/LabeledRadioButton.lua",
+    "sha": "c38c97afc5bc636188b2bbbad88a648956d3b90a",
+    "size": 2005,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledRadioButton.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledRadioButton.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/c38c97afc5bc636188b2bbbad88a648956d3b90a",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/LabeledRadioButton.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledRadioButton.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/c38c97afc5bc636188b2bbbad88a648956d3b90a",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledRadioButton.lua"
+    }
+  },
+  {
+    "name": "LabeledSlider.lua",
+    "path": "src/LabeledSlider.lua",
+    "sha": "2020f2135045248755a87d97bdecb3762bdeabe2",
+    "size": 3569,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledSlider.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledSlider.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/2020f2135045248755a87d97bdecb3762bdeabe2",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/LabeledSlider.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledSlider.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/2020f2135045248755a87d97bdecb3762bdeabe2",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledSlider.lua"
+    }
+  },
+  {
+    "name": "LabeledTextInput.lua",
+    "path": "src/LabeledTextInput.lua",
+    "sha": "0b8a7e35266161d07d007ce9ecbbc54a4d4d797b",
+    "size": 3718,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledTextInput.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledTextInput.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/0b8a7e35266161d07d007ce9ecbbc54a4d4d797b",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/LabeledTextInput.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/LabeledTextInput.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/0b8a7e35266161d07d007ce9ecbbc54a4d4d797b",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/LabeledTextInput.lua"
+    }
+  },
+  {
+    "name": "RbxGui.lua",
+    "path": "src/RbxGui.lua",
+    "sha": "4f2cc4a51e5cde2daaf21312979e7ee6dba1c3e4",
+    "size": 135519,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/RbxGui.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/RbxGui.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/4f2cc4a51e5cde2daaf21312979e7ee6dba1c3e4",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/RbxGui.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/RbxGui.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/4f2cc4a51e5cde2daaf21312979e7ee6dba1c3e4",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/RbxGui.lua"
+    }
+  },
+  {
+    "name": "StatefulImageButton.lua",
+    "path": "src/StatefulImageButton.lua",
+    "sha": "6ee1121995f1a6e275a459c244a67f8153f79b68",
+    "size": 2251,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/StatefulImageButton.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/StatefulImageButton.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/6ee1121995f1a6e275a459c244a67f8153f79b68",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/StatefulImageButton.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/StatefulImageButton.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/6ee1121995f1a6e275a459c244a67f8153f79b68",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/StatefulImageButton.lua"
+    }
+  },
+  {
+    "name": "VerticalScrollingFrame.lua",
+    "path": "src/VerticalScrollingFrame.lua",
+    "sha": "fa5049583f6a8ed3f3f5b7d6ce328a9ba938e6ac",
+    "size": 3150,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/VerticalScrollingFrame.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/VerticalScrollingFrame.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/fa5049583f6a8ed3f3f5b7d6ce328a9ba938e6ac",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/VerticalScrollingFrame.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/VerticalScrollingFrame.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/fa5049583f6a8ed3f3f5b7d6ce328a9ba938e6ac",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/VerticalScrollingFrame.lua"
+    }
+  },
+  {
+    "name": "VerticallyScalingListFrame.lua",
+    "path": "src/VerticallyScalingListFrame.lua",
+    "sha": "cb6d6420b00926415262a56043483fdf5faf14e6",
+    "size": 1999,
+    "url": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/VerticallyScalingListFrame.lua?ref=master",
+    "html_url": "https://github.com/Roblox/StudioWidgets/blob/master/src/VerticallyScalingListFrame.lua",
+    "git_url": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/cb6d6420b00926415262a56043483fdf5faf14e6",
+    "download_url": "https://raw.githubusercontent.com/Roblox/StudioWidgets/master/src/VerticallyScalingListFrame.lua",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Roblox/StudioWidgets/contents/src/VerticallyScalingListFrame.lua?ref=master",
+      "git": "https://api.github.com/repos/Roblox/StudioWidgets/git/blobs/cb6d6420b00926415262a56043483fdf5faf14e6",
+      "html": "https://github.com/Roblox/StudioWidgets/blob/master/src/VerticallyScalingListFrame.lua"
+    }
+  }
+]
