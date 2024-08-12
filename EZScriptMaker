@@ -1,0 +1,56 @@
+local widgetInfo  = DockWidgetPluginGuiInfo.new(Enum.InitialDockState.Right, --This can be changed--
+	false,
+	false,
+	200,
+	200,
+	150,
+	150)
+local widget = plugin:CreateDockWidgetPluginGui("EZ Script Maker", widgetInfo)
+widget.Title = "EZ Script Maker"
+
+local toolbar = plugin:CreateToolbar("EZ Script Maker")
+local toggle = toolbar:CreateButton("Toggle", "Toggle the widget", "rbxassetid://4998267428")
+
+toggle.Click:Connect(function()
+	widget.Enabled = not widget.Enabled
+end)
+
+local AddOns = require(script.AddOns)
+AddOns:CreateScript(widget)
+AddOns:CreateModuleScript(widget)
+AddOns:CreateLocalScript(widget)
+local uilist = script.UIListLayout:Clone()
+uilist.Parent = widget.Frame
+
+widget.Frame.CreateScript.MouseButton1Down:Connect(function()
+	local selection = game:GetService("Selection"):Get()
+	if selection then
+		local NewScript = Instance.new("Script")
+		NewScript.Parent = table.unpack(selection)
+		NewScript.Source = "print('Script Made by EZ Script Maker')"
+	end
+end)
+
+widget.Frame.CreateLocalScript.MouseButton1Down:Connect(function()
+	local selection = game:GetService("Selection"):Get()
+	if selection then
+		local NewScript = Instance.new("LocalScript")
+		NewScript.Parent = table.unpack(selection)
+		NewScript.Source = "print('LocalScript Made by EZ script Maker')"
+	end
+end)
+
+widget.Frame.CreateModule.MouseButton1Down:Connect(function()
+	local selection = game:GetService("Selection"):Get()
+	if selection then
+		local NewScript = Instance.new("ModuleScript")
+		NewScript.Parent = table.unpack(selection)
+		NewScript.Source = [[
+local Module = {}
+		
+print("Module Made by EZ Script Maker")
+		
+return Module
+		]]
+	end
+end)
