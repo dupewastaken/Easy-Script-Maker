@@ -1,4 +1,4 @@
-Hello! This is the open-Source version of my first plugin 😄
+Hello! This is the open-Source version of my first plugin :P
 
 If you want to use the plugin in-roblox, Then go to this link:
 https://create.roblox.com/store/asset/18914545498/EZ-Script-Maker
